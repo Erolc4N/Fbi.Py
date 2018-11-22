@@ -29,6 +29,6 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 fbi.py
 ```
-# [ Screenshot - Ekran Görüntüs]
+# [ Screenshot - Ekran Görüntüsü]
 
-<a href="https://hizliresim.com/P1E3Xb"><img src="https://i.hizliresim.com/P1E3Xb.jpg"></a>
+href="https://camo.githubusercontent.com/573d821bd9980927a8c609d63c41842268c60198/68747470733a2f2f696d6167652e6962622e636f2f694c466844392f6662692e706e67"><img src="https://camo.githubusercontent.com/573d821bd9980927a8c609d63c41842268c60198/68747470733a2f2f696d6167652e6962622e636f2f694c466844392f6662692e706e67" data-canonical-src="https://image.ibb.co/iLFhD9/fbi.png" style="max-width:100%;"></a></p>
