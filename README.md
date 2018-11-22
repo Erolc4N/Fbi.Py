@@ -30,6 +30,6 @@ $ pip2 install -r requirements.txt
 $ python2 fbi.py
 ```
 # [ Screenshot ]
-https://hizliresim.com/P1E3Xb
+<a href="https://hizliresim.com/P1E3Xb"><img src="https://i.hizliresim.com/P1E3Xb.jpg"></a>
 
 
