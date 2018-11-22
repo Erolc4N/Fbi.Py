@@ -31,4 +31,4 @@ $ python2 fbi.py
 ```
 # [ Screenshot - Ekran Görüntüsü]
 
-src="https://hizliresim.com/P1E3Xb" data-canonical-src="https://hizliresim.com/P1E3Xb" style="max-width:100%;"></a></p>
+href="https://hizliresim.com/P1E3Xb"><img src="https://hizliresim.com/P1E3Xb" data-canonical-src="https://i.hizliresim.com/P1E3Xb.jpg" style="max-width:100%;"></a></p>
