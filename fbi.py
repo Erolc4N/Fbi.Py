@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 ###################################################################
 #                        Import Module
 import json , sys , hashlib , os , time , marshal
